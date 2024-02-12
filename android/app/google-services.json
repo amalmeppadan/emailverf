@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774150585844",
+    "project_id": "auth-8126b",
+    "storage_bucket": "auth-8126b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774150585844:android:079efcd9da50283132cda1",
+        "android_client_info": {
+          "package_name": "com.example.emailverf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAon420tpPm-D9AZvqRaqDUw5Dji2nFBM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
